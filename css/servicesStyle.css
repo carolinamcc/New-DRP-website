@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Nunito); /*--- CHANGE Body Font --*/
+@import url(http://fonts.googleapis.com/css?family=Oxygen); /*--- CHANGE Heading Font--*/
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One); /*--- CHANGE Navigation Font --*/
+
+
+	
+#page-title {
+    max-width: 100%;
+    padding: 2% 0 1% 0 ;
+    border-bottom: 1px solid rgba(163, 25, 34, 0.811765);
+    margin-bottom: 2%;
+    }
+    
+.sevices-div {
+	max-width: 100%
+	text-align: center;
+	margin: 0 auto;
+}
+
+.service-logo {
+	width: 35%;
+	float: left;
+	margin: 0% 0 10% 0;
+	text-align: center;
+	}
+
+.service {
+	width: 55%;
+	float: left;
+	margin: auto;
+	text-align:justify;
+}
+	
+.service-logo i {
+	color: rgba(163,     25,     34, 0.81);
+	font-size: 300%;
+	padding: 5% 0 4% 0;
+	}
+	
+.services span {
+    font-weight: bold;
+}
